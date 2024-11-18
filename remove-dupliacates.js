@@ -1,4 +1,4 @@
-var removeDuplicates = function(nums) {
+let removeDuplicates = function(nums) {
     let i = nums.length - 1;
     while (i > 0) {
         if (nums[i] == nums[i - 1]) {
