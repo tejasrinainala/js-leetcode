@@ -23,7 +23,7 @@
 // Explanation: The function always returns 42.
 
 
-var map = function (arr, fn) {
+let map = function (arr, fn) {
     let returnArray = [];
     for (let i = 0; i < arr.length; i++) {
         returnArray.push(fn(arr[i], i));
