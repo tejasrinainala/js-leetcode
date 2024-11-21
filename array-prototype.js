@@ -5,6 +5,6 @@ Array.prototype.last = function() {
     }
     else
     {
-        return this[this.length-1];
+        return this[this.length-1];    
     }
 };
