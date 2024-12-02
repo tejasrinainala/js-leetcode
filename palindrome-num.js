@@ -1,4 +1,4 @@
-var isPalindrome = function(x) {
+let isPalindrome = function(x) {
     let y=x.toString()
     let newar=[];
     let c=0;
