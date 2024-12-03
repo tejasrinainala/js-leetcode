@@ -12,4 +12,4 @@ let isSubsequence = function (s, t) {
 
 
     return sIndex === s.length;
-};
+}
