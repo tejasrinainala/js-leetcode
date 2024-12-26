@@ -24,3 +24,12 @@ let addTwoNumbers = function (l1, l2) {
 
     return l3;
 };
+
+// example usage:
+// let l1 = [2, 3, 4];
+// let l2 = [4, 5, 6];
+// console.log(addTwoNumbers(l1, l2)); 
+
+
+// output:
+// [6,8,0,1]
