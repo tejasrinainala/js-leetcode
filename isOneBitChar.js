@@ -8,7 +8,7 @@
 
 
 
-var isOneBitCharacter = function(bits) {
+let isOneBitCharacter = function(bits) {
     let i=0;
     while(i<bits.length-1)
         {
