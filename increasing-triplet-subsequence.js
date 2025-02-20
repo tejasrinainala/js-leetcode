@@ -6,7 +6,7 @@
 
 
 
-var increasingTriplet = function(nums) {
+let increasingTriplet = function(nums) {
     let c=0
     for(let i=0;i<nums.length;i++)
     {
