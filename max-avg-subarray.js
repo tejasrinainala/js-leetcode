@@ -6,7 +6,7 @@
 
 
 
-var findMaxAverage = function (nums, k) {
+let findMaxAverage = function (nums, k) {
     let s = 0;
 
 
